@@ -29,7 +29,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/dgraph-io/badger/v3/y"
+	"github.com/0x5459/badger/v4/y"
 )
 
 const arenaSize = 1 << 20
